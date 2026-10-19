@@ -15,4 +15,4 @@ __pycache__/
 Thumbs.db
 # Generated data and local logs
 *.csv
-pipeline.loggit status
+pipeline.log
